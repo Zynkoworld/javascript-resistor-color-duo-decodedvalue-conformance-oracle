@@ -1,0 +1,7 @@
+{"input": ["brown", "black"], "expect": 10, "raised": false, "task": "resistor-color-duo", "lang": "javascript"}
+{"input": ["blue", "grey"], "expect": 68, "raised": false, "task": "resistor-color-duo", "lang": "javascript"}
+{"input": ["yellow", "violet"], "expect": 47, "raised": false, "task": "resistor-color-duo", "lang": "javascript"}
+{"input": ["white", "red"], "expect": 92, "raised": false, "task": "resistor-color-duo", "lang": "javascript"}
+{"input": ["orange", "orange"], "expect": 33, "raised": false, "task": "resistor-color-duo", "lang": "javascript"}
+{"input": ["green", "brown", "orange"], "expect": 51, "raised": false, "task": "resistor-color-duo", "lang": "javascript"}
+{"input": ["black", "brown"], "expect": 1, "raised": false, "task": "resistor-color-duo", "lang": "javascript"}
